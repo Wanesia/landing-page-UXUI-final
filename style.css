@@ -372,6 +372,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  z-index: 1000;
 }
 
 .cookie-banner p {
